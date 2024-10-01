@@ -1,5 +1,5 @@
 # Doktor-tosun
-Python-TensorFlow üzerinden kalp hastalıklarını tahmin eden bir derin öğrenim yaptım.
+Python-TensorFlow üzerinden kalp hastalıklarını tahmin eden bir derin öğrenim.
 
 # Özellikler
 Optimizasyon için "adam" algoritması kullanıldı.
